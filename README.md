@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <a href="https://github.com/leonardov31?tab=repositories%22%3E
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact" width="400" height="200"/>
+    <a href="https://github.com/bulletsentence?tab=repositories%22%3E
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact" width="400" height="200"/>
     </a>
 </div>
