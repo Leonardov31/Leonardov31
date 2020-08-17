@@ -1,5 +1,7 @@
 ### Hi there I am Leonardo
 
+🔭 I am currently a Bachelor of Science in Computer Science at the Federal Institute of Maranhão, with a strong focus on mobile and web development and knowledge of artificial neural networks and machine learning.
+
 <!--
 **Leonardov31/Leonardov31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact)](https://github.com/Leonardov31?tab=repositories)
+<div>
+  <a href = "https://github.com/Leonardov31?tab=repositories"> 
+    <img align = left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact" width = "400">
+  </a>
+ </div>
