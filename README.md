@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-    <a href="https://github.com/leonardov31?tab=repositories%22%3E"
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact" width="400" height="200"/>
-    </a>
-</div>
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact)](https://github.com/Leonardov31?tab=repositories)
