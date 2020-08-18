@@ -1,6 +1,6 @@
 ### Hi there I am Leonardo
 
-🔭 I am currently a Bachelor of Science in Computer Science at the Federal Institute of Maranhão, with a strong focus on mobile and web development and knowledge of artificial neural networks and machine learning.
+🔭 I am currently a Computer Science student at the Federal Institute of Maranhão, with a strong focus on mobile and web development and knowledge of artificial neural networks and machine learning.
 
 <!--
 **Leonardov31/Leonardov31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
