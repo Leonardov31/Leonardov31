@@ -11,6 +11,6 @@
 
 <div>
   <a href = "https://github.com/Leonardov31?tab=repositories"> 
-    <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact" width = "400">
+    <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardov31&layout=compact&theme=dark" width = "400">
   </a>
  </div>
